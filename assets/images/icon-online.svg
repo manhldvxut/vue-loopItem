@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g id="icon-online" transform="translate(0.164 -0.16)">
+    <g id="icon-online-2" data-name="icon-online" transform="translate(-0.164 0.16)" fill="none" stroke="#454b50" stroke-width="1">
+      <circle cx="14" cy="14" r="14" stroke="none"/>
+      <circle cx="14" cy="14" r="13.5" fill="none"/>
+    </g>
+    <path id="パス_18300" data-name="パス 18300" d="M0,0,5.61-6l5.61,6" transform="translate(11.336 9.157) rotate(90)" fill="none" stroke="#454b50" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>
